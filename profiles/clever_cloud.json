@@ -266,11 +266,6 @@
         "versions": [
           "3.0"
         ]
-      },
-      {
-        "name": "neo4j",
-        "description": "Graph Database",
-        "type": "datastore"
       }
     ],
     "addon": [
